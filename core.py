@@ -6,8 +6,8 @@ import requests
 import os
 
 
-bot_token = '5120192268:AAEQIAlVnnrvxl7HC9G2TgzWtBJft61QkIA' # токен вашего тг-бота
-chat_id = '346094457' # ID вашего чата с тг-ботом
+bot_token = '' # токен вашего тг-бота
+chat_id = '' # ID вашего чата с тг-ботом
 
 
 def tg_alert(alarm):
